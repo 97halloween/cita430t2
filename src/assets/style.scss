@@ -1,0 +1,31 @@
+// Nav links ...
+//$navbar-nav-item-color: #FFFFFF;
+// $navbar-nav-item-onclick-color: #00796B;
+// $navbar-nav-item-hover-color: #4DB6AC;
+// $navbar-nav-item-active-color: #00796B;
+//
+// $inverse-navbar-nav-item-color: #FFFFFF;
+// $inverse-navbar-nav-item-hover-color: #4DB6AC;
+// $inverse-navbar-nav-item-onclick-color: #00796B;
+// $inverse-navbar-nav-item-active-color: #00796B;
+//
+// //Social icon buttons ...
+//$icon-button-background: #26A69A;
+// //$icon-button-color:
+// //$icon-button-hover-background: #FFFFFF;
+// $icon-button-hover-color: #00796B;
+//
+// $global-font-size: 15px !default;
+// $base-heading-font-weight: 300 !default;
+// //$inverse-icon-button-background: #26A69A;
+// //$inverse-icon-button-color: #26A69A;
+
+// 2. Import default variables and available mixins.
+@import "~uikit/src/scss/variables-theme.scss";
+@import "~uikit/src/scss/mixins-theme.scss";
+
+// 3. Your custom mixin overwrites.
+//@mixin hook-card() { color: #000; }
+
+// 4. Import UIkit.
+@import "~uikit/src/scss/uikit-theme.scss";
